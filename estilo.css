@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div1{
+    background-color: #D3D3D3;
+    padding-bottom: 3px;
+}
+.div2, .div4{
+    background-color: #00a8ff;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 3px;
+    padding-top: 15px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+
+.div3{
+    margin-top: 20px;
+}
+
+h2{
+    font-size: large;
+}
+
+.textof, .textoI{
+    color: #00a8ff;
+}
+
+.ingles, .frances, .espanhol{
+    width: 50px;
+}
+
+.textof{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
